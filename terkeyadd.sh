@@ -1,4 +1,6 @@
 #!/bin/sh
+#Dilarang Keras Untuk Recode!!
+#Don't Recode This Script!!
 
 printf "\033[1;33m[>] \033[1;32mLoading tools"; sleep 1; printf "."; sleep 1; printf "."; sleep 1; printf "."; sleep 1
 echo "\n\033[1;33m[>] \033[1;36mMembuat Setup"; sleep 1
