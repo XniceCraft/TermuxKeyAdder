@@ -1,7 +1,6 @@
-Script ini untuk menambahkan key seperti ALT, Arrow Key, Home, End, dll
+This script used to add ALT, Arrow key, Home, End button, etc
 
-Cara install:
-1. pkg install git -y
-2. git clone https://github.com/XniceCraft/TermuxKeyAdder
-3. cd TermuxKeyAdder
-4. sh terkeyadd.sh
+How to install:
+1. git clone https://github.com/XniceCraft/TermuxKeyAdder
+2. cd TermuxKeyAdder
+3. ./terkeyadd.sh
